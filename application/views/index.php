@@ -15,15 +15,12 @@
   <link rel="stylesheet" type="text/css" href="<?=base_url('assets')?>/css/zabuto_calendar.css">
   <link rel="stylesheet" type="text/css" href="<?=base_url('assets')?>/lib/gritter/css/jquery.gritter.css" />
   <link href="<?=base_url('assets')?>/css/style.css" rel="stylesheet">
+  <!-- <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css"> -->
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+  <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
   <link href="<?=base_url('assets')?>/css/style-responsive.css" rel="stylesheet">
   <script src="<?=base_url('assets')?>/lib/chart-master/Chart.js"></script>
-
-  <!-- =======================================================
-    Template Name: Dashio
-    Template URL: https://templatemag.com/dashio-bootstrap-admin-template/
-    Author: TemplateMag.com
-    License: https://templatemag.com/license/
-  ======================================================= -->
+  <style>p.indent{ padding-left: 1.8em }</style>
 </head>
 
 <body>
